@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Madrilia",
+    "address": "VDP",
+    "cuisine": "Argentin",
+    "website": "https://madrilia.com",
+    "description": "Is very goood posta loco"
+  },
+  {
+    "name": "Test 2",
+    "address": "Teststreet 10",
+    "cuisine": "Indian",
+    "website": "https://something.com",
+    "description": "I dont but is very funny"
+  },
+  {
+    "name": "severa",
+    "address": "Villa del Parque",
+    "cuisine": "Indian",
+    "website": "https://something.com",
+    "description": "Dunno bro"
+  }
+]
